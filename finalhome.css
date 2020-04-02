@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo
+{
+	height: 58px;
+	padding: 2px 10px;
+	
+}
+
+li a
+{
+	color: #0023F5;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.photosi
+{
+		margin:0px;
+		border: 0px;
+		padding: 7px;
+}
+.heading
+{
+	font-size: 100;
+}
+.navbar
+{
+	box-shadow: 0 5px 10px #000000;
+	text-transform: uppercase;
+	
+}
+
+.container{
+	padding: 0 20px 0 20px;
+}
+
+.row{
+	margin-bottom:40px;
+}
+section.gray {
+	background-color: #FFFFFF;
+}
+.col-md-6 {
+		margin-bottom: 30px;
+	}
+h2.text-center
+{
+	color: #FFFFFF
+}
+
+h3.text-center
+{
+	color:#000741
+}
+p.text-center
+{
+	color: #606060
+}
+h4.text-center
+{
+	color: #864B4C
+}
+
+h3
+{
+	color: #E88B8D
+}
+
+
+h1.text-center
+{
+	color:#000741
+		
+}
+
+
+
+
+
+.datalist
+{
+	width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+	   width: 75%;
+}
